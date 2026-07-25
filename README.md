@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/avnigupta6677-gif/Leetcode/tree/master/0009-palindrome-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/avnigupta6677-gif/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
@@ -17,4 +18,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/avnigupta6677-gif/Leetcode/tree/master/0015-3sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/avnigupta6677-gif/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
